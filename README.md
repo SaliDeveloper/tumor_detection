@@ -11,15 +11,15 @@ The dataset used in this project consists of MRI images categorized into four cl
 
 - Glioma
 
-![Glioma](images/Glioma.png)
+![Glioma](images/glioma.png)
 
 - Meningioma
 
-![Meningioma](images/Meningioma.png)
+![Meningioma](images/meningioma.png)
 
 - Pituitary
 
-![Pituitary](images/Pituitary.png)
+![Pituitary](images/pituitary.png)
 
 ## Implementation
 We utilize PyTorch for building and training the convolutional neural network. The network architecture is designed to effectively classify MRI images into their respective tumor categories.
