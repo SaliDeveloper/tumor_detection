@@ -35,12 +35,11 @@ To get started with the project:
 
 * Dataset distribution:
 
-<img src="images/train_distribution.png" width="318">
-<img src="images/test_distribution.png" width="318">
+<img src="images/train_distribution.png" width="318"> <img src="images/test_distribution.png" width="318">
 
 * Plot loss and accuracy during trining:
 
-<img src="images/plot_loss_and_accuracy.png" width="640">
+<img src="images/plot_loss_and_accuracy.png" width="680">
 
 * evaluation results of the trained model on the test dataset:
 
